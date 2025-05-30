@@ -1,8 +1,12 @@
 This is a basic tutorial to improve my understanding on django
 
 To run this project:
-python -m venv venv
-venv\Scripts\activate  # On Windows
-pip install django
-python manage.py runserver
+
+1.python -m venv venv
+
+2.venv\Scripts\activate  # On Windows
+
+3.pip install django
+
+4.python manage.py runserver
 
